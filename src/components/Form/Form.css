@@ -1,0 +1,29 @@
+:root {
+    --cor1: #7065E6;
+    --cor2: #6582E6;
+    --cor3: #65ABE6;
+    --cor4: #65D4E6;
+    --cor5: #B1BDE6;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form input[type='text'] {
+    width: 70%;
+    height: 25px;
+}
+
+form button[type='submit'] {
+    width: 25px;
+    height: 30px;
+}
+

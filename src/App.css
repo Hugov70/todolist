@@ -1,0 +1,19 @@
+:root {
+  --cor1: #7065E6;
+  --cor2: #6582E6;
+  --cor3: #65ABE6;
+  --cor4: #65D4E6;
+  --cor5: #B1BDE6;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: var(--cor3);
+}
+
+
+
